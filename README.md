@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @imbowbow42
-- 👀 I’m interested in JS
-- 🌱 I’m currently learning web
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Gia Bao 👋
 
-<!---
-imbowbow42/imbowbow42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m an IT professional who enjoys building practical projects, learning new tools, and improving my skills through real-world applications.
+My GitHub includes work across JavaScript, TypeScript, Python, C#, and Azure Cloud.
+
+## 🚀 Currently (Early 2026)
+
+* Learning Azure Cloud Development
+* Building cloud-ready APIs and backend services
+* Exploring clean architecture and maintainable code practices
+
+## ⭐ Featured Projects
+
+* **azure-portfolio** — Personal portfolio website hosted on Azure
+* **azure-visitor-counter-api** — Serverless visitor counter API built alongside the portfolio
+* **auth-api (Azure + Cosmos DB)** — Production-style authentication API featuring:
+
+  * Username/password login with secure hashing (bcrypt)
+  * Google OAuth sign-in (backend-verified)
+  * JWT authentication with refresh tokens
+  * Role-ready authorization design
+  * Azure Cosmos DB (NoSQL) integration
+  * Cloud-ready architecture deployed on Azure App Service
+* **PTHTTT_CuoiKy** — Legacy university e-commerce website project
+
+## 🤝 Let’s Connect
+
+I’m always open to collaboration, feedback, and new opportunities.
